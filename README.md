@@ -1,13 +1,13 @@
 # Project 1
 
-## Title:📊[ NHS Accident & Emergency (A&E) Analysis](https://github.com/ugochukwu99/github.io/blob/main/NHS_Data_Analysis.pbix)
+# Title:📊[ NHS Accident & Emergency (A&E) Analysis](https://github.com/ugochukwu99/github.io/blob/main/NHS_Data_Analysis.pbix)
 
-## Tools Used:
+# Tools Used:
    - **Power BI Desktop** – for building interactive dashboards and visualizations  
    - **DAX (Data Analysis Expressions)** – to create dynamic KPIs, calculated measures, and business logic  
    - **Power Query (M Language)** – for data cleaning, transformation, and shaping before visualization
   
-## Project Description:
+# Project Description:
 
    This project presents a comprehensive Power BI dashboard analyzing NHS Accident and Emergency (A&E) data from January 1, 2021 to January 30, 2025. It visualizes critical     KPIs such as total attendances, emergency admissions, and wait time performance across provider trusts and department types.
 
