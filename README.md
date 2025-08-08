@@ -1,6 +1,6 @@
 # Project 1
 
-## Title:📊 NHS Accident & Emergency (A&E) Analysis
+## Title:📊[ NHS Accident & Emergency (A&E) Analysis](https://github.com/ugochukwu99/github.io/blob/main/NHS_Data_Analysis.pbix)
 
 ## Tools Used:
    - **Power BI Desktop** – for building interactive dashboards and visualizations  
@@ -20,56 +20,40 @@
   Highlights emergency admissions, departmental performance, and provider-level comparisons.
 
   **Key findings:**
+  
+  _**Accident Dashboard**_
 
-**🚑 Accident Dashboard – Key Findings**
-   4-Hour Wait Time Performance
+  What percentage of A&E patients are seen within 4 hours?
+  
+From the KPI card displayed in the Accident dashboard, 69% of patients were seen within the 4-hour NHS target window. While this represents the majority of cases, it still falls short of the NHS’s benchmark of 95%, indicating ongoing challenges in timely patient care delivery.
 
-  Only 69% of A&E patients are seen within the 4-hour NHS target — significantly below the 95% benchmark, highlighting ongoing challenges in timely emergency care.
+How has that performance changed year-over-year?
 
-  Year-over-Year Performance Trends
+The data shows a clear performance trajectory over the five-year period. In 2021, 70% of patients were seen within the NHS’s 4-hour target. This percentage declined to 63% in 2022, likely reflecting increased strain on emergency services during that time. Encouragingly, the trend then reverses: performance improves to 69% in 2023, and further strengthens to 73% in both 2024 and early 2025. This upward trend suggests that operational adjustments, resource investments, or improved triage processes have positively impacted service delivery. While the current rate still falls below the NHS’s national 95% target, the consistent year-over-year improvement is a positive signal of recovery and system responsiveness.
 
-  Performance declined from 70% in 2021 to 63% in 2022, likely due to service strain.
+Which NHS providers have the highest proportions of patients delayed beyond 4 hours?
 
-  Improvements followed: 69% in 2023, rising to 73% in 2024 and early 2025.
+The bar chart highlights several NHS trusts with a high percentage of patients waiting beyond the 4-hour target. Notably, Hull University Teaching Hospitals NHS Trust leads with 45% of patients delayed, followed closely by The Shrewsbury and Telford Hospital NHS Trust (43%) and University Hospitals Birmingham NHS Foundation Trust (42%). These elevated delay rates may reflect systemic challenges such as overcrowding, staff shortages, or bed availability issues. Identifying these trusts enables targeted performance improvement initiatives and resource planning to address bottlenecks in urgent care delivery.
 
-  This upward trend indicates recovery, possibly due to operational changes or resource improvements.
+Which types of departments (e.g., Major A&E, Minor Injury, Specialty) handle wait times better?
 
-  Worst-Performing NHS Trusts
+According to the chart Minor Injury Units and Specialty Departments generally perform better, with fewer breaches of the 4-hour target. Major A&E departments tend to have higher delays, likely due to the complexity and volume of cases handled.
 
-  The highest delay rates (patients waiting over 4 hours) were seen at:
+ _**Emergency Dashboard**_
+ 
+Are emergency admissions rising or falling over the four-year period?
 
-  Hull University Teaching Hospitals NHS Trust – 45%
+The "Emergency Admission by Year" chart shows a consistent and measurable increase in emergency admissions from 2021 through 2024, with levels remaining high into early 2025. This sustained rise reflects growing pressure on emergency services, driven by identifiable factors such as an aging population, higher prevalence of chronic conditions. The data clearly signals that demand for emergency care is intensifying, and providers must scale capacity and triage systems to keep pace.
 
-  Shrewsbury and Telford Hospital NHS Trust – 43%
+Has the NHS improved its responsiveness and service levels?
 
-  University Hospitals Birmingham NHS Foundation Trust – 42%
-
-  These figures suggest localized issues like overcrowding or staff shortages.
-
-**Departmental Performance**
-
-  Minor Injury Units and Specialty Departments outperform Major A&E departments in meeting the 4-hour target.
-
-  Major A&E departments have higher delays due to higher volume and case complexity.
-
-# 🏥 Emergency Dashboard – Key Findings
-**Emergency Admission Trends**
-
-  Emergency admissions increased steadily from 2021 to 2024, with high levels continuing into early 2025.
-
-  This rise is driven by factors such as an aging population and chronic illness, signaling increasing demand for emergency services.
-
-  Service Responsiveness
-
-  A modest improvement in NHS responsiveness begins in 2024.
-
-  However, the rising number of admissions continues to strain resources, and overall performance still falls short of the 95% target.
-
+From a combined view of the trend charts and admission data, the NHS shows a modest improvement in responsiveness beginning in 2024. However, the increase in admissions has likely placed additional strain on resources, and overall performance remains below the national 95% compliance target.
 
 
 Dashboard Overview:
 # 🚑 Accident Dashboard 
-  ![](Assets/screenshots/Accident_dashboard.png)
+  ![](Accident_dashboard.png)
+
 
 # 🏥 Emergency Dashboard 
-![](../screenshots/Emergency_dashboard.png)
+  ![](Emergency_dashboard.png)
