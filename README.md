@@ -56,4 +56,24 @@ Dashboard Overview:
 
 
 # 🏥 Emergency Dashboard 
-  ![](Emergency_dashboard.png)
+  ![](Emergency_dashboard.png) 
+
+# Project 2
+
+**Title:** NHS Workforce Data Interrogation and Manipulation
+
+**SQL Code:**
+[NHS Workforce Code](https://github.com/ugochukwu99/github.io/blob/main/NHS_Workforce.SQL)
+
+**SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:**
+This project involves analyzing NHS workforce data using SQL to uncover trends, workforce distribution, and staff group insights over time. The goal is to use structured queries to filter, aggregate, and interpret the data, supporting data-driven understanding of NHS staffing patterns.
+
+
+**Technology used:** SQL server
+
