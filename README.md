@@ -105,7 +105,6 @@ This project presents a visual analysis of hospital admission trends within the 
 # Project 4
 
 **Title:** 
-             
              Kix Beverages: Interactive Dashboards for Strategic Decision-Making
              (Analyzing Profitability, Store Performance, and Financial Trends)
 
