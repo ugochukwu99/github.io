@@ -1,6 +1,6 @@
 # Project 1
 
-# Title:📊[ NHS Accident & Emergency (A&E) Analysis](https://github.com/ugochukwu99/github.io/blob/main/NHS_Data_Analysis.pbix)
+**Title:** [ NHS Accident & Emergency (A&E) Analysis](https://github.com/ugochukwu99/github.io/blob/main/NHS_Data_Analysis.pbix)
 
 # Tools Used:
    - **Power BI Desktop** – for building interactive dashboards and visualizations  
