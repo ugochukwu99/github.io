@@ -80,7 +80,7 @@ This project involves analyzing NHS workforce data using SQL to uncover trends, 
 
 # Project 3
 
-**Title:**  NHS Hospital Admission Analysis 
+**Title:**  [NHS Hospital Admission Analysis](https://github.com/ugochukwu99/github.io/blob/main/NHS_Data_Analysis.pbix)
 
 **Tools Used:** Microsoft Excel, Pivot Chart, Pivot Table, Slicers, Conditional Formatting,
 
@@ -105,8 +105,8 @@ This project presents a visual analysis of hospital admission trends within the 
 # Project 4
 
 **Title:** 
-             Kix Beverages: Interactive Dashboards for Strategic Decision-Making
-             (Analyzing Profitability, Store Performance, and Financial Trends)
+             [Kix Beverages: Interactive Dashboards for Strategic Decision-Making](https://github.com/ugochukwu99/github.io/blob/main/Kix_final_Project.xlsx)
+             
 
 **Tools Used:**
 
