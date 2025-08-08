@@ -97,5 +97,6 @@ This project presents a visual analysis of hospital admission trends within the 
   Friday saw the highest admissions (23), topping 5 of 6 hospitals, while Saturday was the quietest (8). This pattern aligns    with healthcare trends: patients often avoid weekend stays, and specialist services may be reduced. Yet, Friday’s average     length of stay (8 days) is identical to Saturday’s and just two hours more than Monday’s, falling within an hour of five      other days. This suggests that while patient volumes vary, case complexity and care duration remain stable—key for planning   staffing and skill mix ahead of weekend surges.
 
 
-Dashboard Overview:
+**Dashboard Overview:**
 
+![](nhs_hospital_admin.png)
